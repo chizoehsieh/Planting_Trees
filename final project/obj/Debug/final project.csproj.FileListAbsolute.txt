@@ -1,0 +1,267 @@
+C:\Zoe\大二上\C#程式設計\final project\final project\bin\Debug\Database1.mdf
+C:\Zoe\大二上\C#程式設計\final project\final project\bin\Debug\Database1_log.ldf
+C:\Zoe\大二上\C#程式設計\final project\final project\bin\Debug\final project.exe.config
+C:\Zoe\大二上\C#程式設計\final project\final project\bin\Debug\final project.exe
+C:\Zoe\大二上\C#程式設計\final project\final project\bin\Debug\final project.pdb
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final_project.Form1.resources
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final_project.Form2.resources
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final project.exe
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final project.pdb
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final_project.Form3.resources
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final_project.Form4.resources
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final_project.Form5.resources
+C:\Zoe\大二上\C#程式設計\final project\final project\bin\Debug\Interop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project\final project\bin\Debug\AxInterop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\Interop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\AxInterop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+C:\Zoe\大二上\C#程式設計\final project\final project\obj\Debug\final_project.Form9.resources
+C:\Users\HP\Desktop\final project\final project\bin\Debug\Database1.mdf
+C:\Users\HP\Desktop\final project\final project\bin\Debug\Database1_log.ldf
+C:\Users\HP\Desktop\final project\final project\bin\Debug\final project.exe.config
+C:\Users\HP\Desktop\final project\final project\bin\Debug\final project.exe
+C:\Users\HP\Desktop\final project\final project\bin\Debug\final project.pdb
+C:\Users\HP\Desktop\final project\final project\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\final project\final project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\final project\final project\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\final project\final project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final_project.Form1.resources
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final_project.Form2.resources
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final_project.Form3.resources
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final_project.Form4.resources
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final_project.Form5.resources
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final_project.Form9.resources
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final project.exe
+C:\Users\HP\Desktop\final project\final project\obj\Debug\final project.pdb
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\bin\Debug\Database1.mdf
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\bin\Debug\Database1_log.ldf
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\bin\Debug\final project.exe.config
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\bin\Debug\final project.exe
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\bin\Debug\final project.pdb
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\bin\Debug\Interop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\bin\Debug\AxInterop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\Interop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\AxInterop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final_project.Form1.resources
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final_project.Form2.resources
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final_project.Form3.resources
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final_project.Form4.resources
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final_project.Form5.resources
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final_project.Form9.resources
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final project.exe
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final project.pdb
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\obj\Debug\final_project.Form10.resources
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\bin\Debug\Database2.mdf
+C:\Zoe\大二上\C#程式設計\final project0107\final project\final project\bin\Debug\Database2_log.ldf
+C:\Zoe\大二上\C#程式設計\final project0108\final project\bin\Debug\Database1.mdf
+C:\Zoe\大二上\C#程式設計\final project0108\final project\bin\Debug\Database1_log.ldf
+C:\Zoe\大二上\C#程式設計\final project0108\final project\bin\Debug\Database2.mdf
+C:\Zoe\大二上\C#程式設計\final project0108\final project\bin\Debug\Database2_log.ldf
+C:\Zoe\大二上\C#程式設計\final project0108\final project\bin\Debug\final project.exe.config
+C:\Zoe\大二上\C#程式設計\final project0108\final project\bin\Debug\final project.exe
+C:\Zoe\大二上\C#程式設計\final project0108\final project\bin\Debug\final project.pdb
+C:\Zoe\大二上\C#程式設計\final project0108\final project\bin\Debug\Interop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0108\final project\bin\Debug\AxInterop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\Interop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\AxInterop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final_project.Form1.resources
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final_project.Form10.resources
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final_project.Form2.resources
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final_project.Form3.resources
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final_project.Form4.resources
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final_project.Form5.resources
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final_project.Form9.resources
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final project.exe
+C:\Zoe\大二上\C#程式設計\final project0108\final project\obj\Debug\final project.pdb
+C:\Users\HP\Desktop\final project0108\final project\bin\Debug\Database1.mdf
+C:\Users\HP\Desktop\final project0108\final project\bin\Debug\Database1_log.ldf
+C:\Users\HP\Desktop\final project0108\final project\bin\Debug\Database2.mdf
+C:\Users\HP\Desktop\final project0108\final project\bin\Debug\Database2_log.ldf
+C:\Users\HP\Desktop\final project0108\final project\bin\Debug\final project.exe.config
+C:\Users\HP\Desktop\final project0108\final project\bin\Debug\final project.exe
+C:\Users\HP\Desktop\final project0108\final project\bin\Debug\final project.pdb
+C:\Users\HP\Desktop\final project0108\final project\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\final project0108\final project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final_project.Form1.resources
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final_project.Form10.resources
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final_project.Form2.resources
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final_project.Form3.resources
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final_project.Form4.resources
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final_project.Form5.resources
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final_project.Form9.resources
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final project.exe
+C:\Users\HP\Desktop\final project0108\final project\obj\Debug\final project.pdb
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\bin\Debug\Database1.mdf
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\bin\Debug\Database1_log.ldf
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\bin\Debug\Database2.mdf
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\bin\Debug\Database2_log.ldf
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\bin\Debug\final project.exe.config
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\bin\Debug\final project.exe
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\bin\Debug\final project.pdb
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\bin\Debug\Interop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\bin\Debug\AxInterop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\Interop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\AxInterop.WMPLib.dll
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final_project.Form1.resources
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final_project.Form10.resources
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final_project.Form2.resources
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final_project.Form3.resources
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final_project.Form4.resources
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final_project.Form5.resources
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final_project.Form9.resources
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final project.exe
+C:\Zoe\大二上\C#程式設計\final project0109\final project0108\final project\obj\Debug\final project.pdb
+C:\Program C#\final project0110\final project\bin\Debug\Database1.mdf
+C:\Program C#\final project0110\final project\bin\Debug\Database1_log.ldf
+C:\Program C#\final project0110\final project\bin\Debug\Database2.mdf
+C:\Program C#\final project0110\final project\bin\Debug\Database2_log.ldf
+C:\Program C#\final project0110\final project\bin\Debug\final project.exe.config
+C:\Program C#\final project0110\final project\bin\Debug\final project.exe
+C:\Program C#\final project0110\final project\bin\Debug\final project.pdb
+C:\Program C#\final project0110\final project\bin\Debug\Interop.WMPLib.dll
+C:\Program C#\final project0110\final project\bin\Debug\AxInterop.WMPLib.dll
+C:\Program C#\final project0110\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Program C#\final project0110\final project\obj\Debug\Interop.WMPLib.dll
+C:\Program C#\final project0110\final project\obj\Debug\AxInterop.WMPLib.dll
+C:\Program C#\final project0110\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+C:\Program C#\final project0110\final project\obj\Debug\final_project.Form1.resources
+C:\Program C#\final project0110\final project\obj\Debug\final_project.Form10.resources
+C:\Program C#\final project0110\final project\obj\Debug\final_project.Form2.resources
+C:\Program C#\final project0110\final project\obj\Debug\final_project.Form3.resources
+C:\Program C#\final project0110\final project\obj\Debug\final_project.Form4.resources
+C:\Program C#\final project0110\final project\obj\Debug\final_project.Form5.resources
+C:\Program C#\final project0110\final project\obj\Debug\final_project.Form9.resources
+C:\Program C#\final project0110\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Program C#\final project0110\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Program C#\final project0110\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Program C#\final project0110\final project\obj\Debug\final project.exe
+C:\Program C#\final project0110\final project\obj\Debug\final project.pdb
+C:\Users\HP\Downloads\final project0110\final project0110\final project\bin\Debug\Database1.mdf
+C:\Users\HP\Downloads\final project0110\final project0110\final project\bin\Debug\Database1_log.ldf
+C:\Users\HP\Downloads\final project0110\final project0110\final project\bin\Debug\Database2.mdf
+C:\Users\HP\Downloads\final project0110\final project0110\final project\bin\Debug\Database2_log.ldf
+C:\Users\HP\Downloads\final project0110\final project0110\final project\bin\Debug\final project.exe.config
+C:\Users\HP\Downloads\final project0110\final project0110\final project\bin\Debug\final project.exe
+C:\Users\HP\Downloads\final project0110\final project0110\final project\bin\Debug\final project.pdb
+C:\Users\HP\Downloads\final project0110\final project0110\final project\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\final project0110\final project0110\final project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final_project.Form1.resources
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final_project.Form10.resources
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final_project.Form2.resources
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final_project.Form3.resources
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final_project.Form4.resources
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final_project.Form5.resources
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final_project.Form9.resources
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final project.exe
+C:\Users\HP\Downloads\final project0110\final project0110\final project\obj\Debug\final project.pdb
+E:\final project0110\final project0110\final project\bin\Debug\Database1.mdf
+E:\final project0110\final project0110\final project\bin\Debug\Database1_log.ldf
+E:\final project0110\final project0110\final project\bin\Debug\Database2.mdf
+E:\final project0110\final project0110\final project\bin\Debug\Database2_log.ldf
+E:\final project0110\final project0110\final project\bin\Debug\final project.exe.config
+E:\final project0110\final project0110\final project\bin\Debug\final project.exe
+E:\final project0110\final project0110\final project\bin\Debug\final project.pdb
+E:\final project0110\final project0110\final project\bin\Debug\Interop.WMPLib.dll
+E:\final project0110\final project0110\final project\bin\Debug\AxInterop.WMPLib.dll
+E:\final project0110\final project0110\final project\obj\Debug\final project.csprojAssemblyReference.cache
+E:\final project0110\final project0110\final project\obj\Debug\Interop.WMPLib.dll
+E:\final project0110\final project0110\final project\obj\Debug\AxInterop.WMPLib.dll
+E:\final project0110\final project0110\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+E:\final project0110\final project0110\final project\obj\Debug\final_project.Form1.resources
+E:\final project0110\final project0110\final project\obj\Debug\final_project.Form10.resources
+E:\final project0110\final project0110\final project\obj\Debug\final_project.Form2.resources
+E:\final project0110\final project0110\final project\obj\Debug\final_project.Form3.resources
+E:\final project0110\final project0110\final project\obj\Debug\final_project.Form4.resources
+E:\final project0110\final project0110\final project\obj\Debug\final_project.Form5.resources
+E:\final project0110\final project0110\final project\obj\Debug\final_project.Form9.resources
+E:\final project0110\final project0110\final project\obj\Debug\final_project.Properties.Resources.resources
+E:\final project0110\final project0110\final project\obj\Debug\final project.csproj.GenerateResource.cache
+E:\final project0110\final project0110\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+E:\final project0110\final project0110\final project\obj\Debug\final project.exe
+E:\final project0110\final project0110\final project\obj\Debug\final project.pdb
+F:\final project0110\final project0110\final project\bin\Debug\Database1.mdf
+F:\final project0110\final project0110\final project\bin\Debug\Database1_log.ldf
+F:\final project0110\final project0110\final project\bin\Debug\Database2.mdf
+F:\final project0110\final project0110\final project\bin\Debug\Database2_log.ldf
+F:\final project0110\final project0110\final project\bin\Debug\final project.exe.config
+F:\final project0110\final project0110\final project\bin\Debug\final project.exe
+F:\final project0110\final project0110\final project\bin\Debug\final project.pdb
+F:\final project0110\final project0110\final project\bin\Debug\Interop.WMPLib.dll
+F:\final project0110\final project0110\final project\bin\Debug\AxInterop.WMPLib.dll
+F:\final project0110\final project0110\final project\obj\Debug\final project.csprojAssemblyReference.cache
+F:\final project0110\final project0110\final project\obj\Debug\Interop.WMPLib.dll
+F:\final project0110\final project0110\final project\obj\Debug\AxInterop.WMPLib.dll
+F:\final project0110\final project0110\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+F:\final project0110\final project0110\final project\obj\Debug\final_project.Form1.resources
+F:\final project0110\final project0110\final project\obj\Debug\final_project.Form2.resources
+F:\final project0110\final project0110\final project\obj\Debug\final_project.Form3.resources
+F:\final project0110\final project0110\final project\obj\Debug\final_project.Form4.resources
+F:\final project0110\final project0110\final project\obj\Debug\final_project.Form5.resources
+F:\final project0110\final project0110\final project\obj\Debug\final_project.Form9.resources
+F:\final project0110\final project0110\final project\obj\Debug\final_project.Properties.Resources.resources
+F:\final project0110\final project0110\final project\obj\Debug\final project.csproj.GenerateResource.cache
+F:\final project0110\final project0110\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+F:\final project0110\final project0110\final project\obj\Debug\final project.exe
+F:\final project0110\final project0110\final project\obj\Debug\final project.pdb
+C:\Users\USER\Desktop\final project0110\final project\bin\Debug\Database1.mdf
+C:\Users\USER\Desktop\final project0110\final project\bin\Debug\Database1_log.ldf
+C:\Users\USER\Desktop\final project0110\final project\bin\Debug\Database2.mdf
+C:\Users\USER\Desktop\final project0110\final project\bin\Debug\Database2_log.ldf
+C:\Users\USER\Desktop\final project0110\final project\bin\Debug\final project.exe.config
+C:\Users\USER\Desktop\final project0110\final project\bin\Debug\final project.exe
+C:\Users\USER\Desktop\final project0110\final project\bin\Debug\final project.pdb
+C:\Users\USER\Desktop\final project0110\final project\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\final project0110\final project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final project.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final_project.Form1.resources
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final_project.Form2.resources
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final_project.Form3.resources
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final_project.Form4.resources
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final_project.Form5.resources
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final_project.Form9.resources
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final project.exe
+C:\Users\USER\Desktop\final project0110\final project\obj\Debug\final project.pdb
